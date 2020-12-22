@@ -1,2 +1,2 @@
 # CDN
-The CDN for NFPD
+The CDN for ColosseumRP
